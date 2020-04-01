@@ -1,3 +1,2 @@
 # keyloggerpy
-python version of keylogger
-records the keystroke and log it in a file
+python version of keylogger. it records the keystroke and log it in a file
